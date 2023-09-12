@@ -32,4 +32,4 @@ Future Technology Trend
 <img width="788" alt="Screenshot 2023-08-25 at 4 31 06 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/5d5eaea2-4671-46d1-ab12-8b14d80ed743">
 
 Demographics  
-<img width="722" alt="Screenshot 2023-08-25 at 4 33 36 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/65f7e27c-7943-40b5-a954-6985be32e77e">
+<img width="676" alt="Screenshot 2023-08-25 at 4 33 36 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/65f7e27c-7943-40b5-a954-6985be32e77e">
