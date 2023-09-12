@@ -24,9 +24,12 @@ Top 10 Databases Worked With:
 Top 10 Databases Desired to Work With Next Year:
 <img width="822" alt="Screenshot 2023-08-25 at 4 22 29 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/d30a29b2-4766-4ed8-ab01-c8bc4d494e87">
 
-**Dashboards**
-Current Technology Usage <img width="794" alt="Screenshot 2023-08-25 at 4 29 40 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/6bdb007a-315e-41cf-a0a2-c0db5f69f2a6">
+**Dashboards**  
+Current Technology Usage  
+<img width="794" alt="Screenshot 2023-08-25 at 4 29 40 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/6bdb007a-315e-41cf-a0a2-c0db5f69f2a6">
 
-Future Technology Trend <img width="788" alt="Screenshot 2023-08-25 at 4 31 06 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/5d5eaea2-4671-46d1-ab12-8b14d80ed743">
+Future Technology Trend  
+<img width="788" alt="Screenshot 2023-08-25 at 4 31 06 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/5d5eaea2-4671-46d1-ab12-8b14d80ed743">
 
-Demographics <img width="1083" alt="Screenshot 2023-08-25 at 4 33 36 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/65f7e27c-7943-40b5-a954-6985be32e77e">
+Demographics  
+<img width="1083" alt="Screenshot 2023-08-25 at 4 33 36 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/65f7e27c-7943-40b5-a954-6985be32e77e">
