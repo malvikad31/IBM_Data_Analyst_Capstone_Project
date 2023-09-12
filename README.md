@@ -13,23 +13,30 @@ Note: Data exploration and wrangling were conducted using Python on JupyterNoteb
 
 ## Summary of Results
 Top 10 Languages Worked With:
-<img width="700" alt="Screenshot 2023-08-25 at 4 14 31 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/ec67b7fa-3e5e-46a0-8f61-0686ed55dd19">
+<img width="843" alt="Screenshot 2023-08-25 at 4 14 31 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/a505d1b4-9aac-4ceb-acbe-53c0b42d3113">
+
 
 Top 10 Languages Desired to Work With Next Year:
-<img width="700" alt="Screenshot 2023-08-25 at 4 15 46 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/5a891508-253d-43c0-ba8c-9f947835432b">
+<img width="824" alt="Screenshot 2023-08-25 at 4 15 46 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/09881b61-f52e-453a-ac4c-5d352d477549">
+
 
 Top 10 Databases Worked With:
-<img width="700" alt="Screenshot 2023-08-25 at 4 21 42 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/70262865-6ae2-4818-8228-d87252c0f982">
+<img width="822" alt="Screenshot 2023-08-25 at 4 21 42 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/12373b16-5cfc-403a-b448-cda86e20e7e2">
+
 
 Top 10 Databases Desired to Work With Next Year:
-<img width="700" alt="Screenshot 2023-08-25 at 4 22 29 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/d30a29b2-4766-4ed8-ab01-c8bc4d494e87">
+<img width="822" alt="Screenshot 2023-08-25 at 4 22 29 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/d6677b1b-d4e8-455b-88d1-1ad9544876c1">
+
 
 **Dashboards**  
 Current Technology Usage  
 <img width="794" alt="Screenshot 2023-08-25 at 4 29 40 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/6bdb007a-315e-41cf-a0a2-c0db5f69f2a6">
 
+
 Future Technology Trend  
 <img width="788" alt="Screenshot 2023-08-25 at 4 31 06 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/5d5eaea2-4671-46d1-ab12-8b14d80ed743">
 
+
 Demographics  
 <img width="722" alt="Screenshot 2023-08-25 at 4 33 36 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/65f7e27c-7943-40b5-a954-6985be32e77e">
+
