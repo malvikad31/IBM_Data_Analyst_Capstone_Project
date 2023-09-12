@@ -13,16 +13,16 @@ Note: Data exploration and wrangling were conducted using Python on JupyterNoteb
 
 ## Summary of Results
 Top 10 Languages Worked With:
-<img width="843" alt="Screenshot 2023-08-25 at 4 14 31 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/ec67b7fa-3e5e-46a0-8f61-0686ed55dd19">
+<img width="700" alt="Screenshot 2023-08-25 at 4 14 31 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/ec67b7fa-3e5e-46a0-8f61-0686ed55dd19">
 
 Top 10 Languages Desired to Work With Next Year:
-<img width="824" alt="Screenshot 2023-08-25 at 4 15 46 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/5a891508-253d-43c0-ba8c-9f947835432b">
+<img width="700" alt="Screenshot 2023-08-25 at 4 15 46 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/5a891508-253d-43c0-ba8c-9f947835432b">
 
 Top 10 Databases Worked With:
-<img width="822" alt="Screenshot 2023-08-25 at 4 21 42 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/70262865-6ae2-4818-8228-d87252c0f982">
+<img width="700" alt="Screenshot 2023-08-25 at 4 21 42 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/70262865-6ae2-4818-8228-d87252c0f982">
 
 Top 10 Databases Desired to Work With Next Year:
-<img width="822" alt="Screenshot 2023-08-25 at 4 22 29 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/d30a29b2-4766-4ed8-ab01-c8bc4d494e87">
+<img width="700" alt="Screenshot 2023-08-25 at 4 22 29 PM" src="https://github.com/malvikad31/IBM_Data_Analyst_Capstone_Project/assets/140577395/d30a29b2-4766-4ed8-ab01-c8bc4d494e87">
 
 **Dashboards**  
 Current Technology Usage  
