@@ -1,4 +1,4 @@
-# IBM_Data_Analyst_Capstone_Project
+# IBM Data Analyst Capstone Project
 Includes all the projects completed for the final IBM Data Analyst Capstone Project.
 
 ## Description
